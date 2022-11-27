@@ -12,9 +12,4 @@ body {
 .cell {
   border: 1px solid black;
   padding: 12px;
-
-}
-
-.change {
-  background-color: green;
 }
