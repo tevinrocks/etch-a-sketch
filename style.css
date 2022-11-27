@@ -1,0 +1,20 @@
+body {
+  background-color: gray
+}
+
+#grid {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto
+  auto auto auto auto auto auto auto;
+
+}
+
+.cell {
+  border: 1px solid black;
+  padding: 12px;
+
+}
+
+.change {
+  background-color: green;
+}
