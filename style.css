@@ -2,6 +2,10 @@ body {
   background-color: gray
 }
 
+h1 {
+  text-align: center;
+}
+
 #grid {
   display: grid;
   grid-template-columns: auto auto auto auto auto auto auto auto auto
@@ -11,5 +15,5 @@ body {
 
 .cell {
   border: 1px solid black;
-  padding: 12px;
+  padding: 19px;
 }
